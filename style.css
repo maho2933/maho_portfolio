@@ -1,0 +1,26 @@
+body{
+}
+ul {
+  display: block;
+  padding: .5em;
+  position: relative;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  text-align: center;
+  transition: all .5s;
+}
+
+header li{
+  display: inline;
+  padding: 10px 10px 10px 10px;
+}
+
+a{
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.contents{
+  text-align: center;
+  float: none;
+}
